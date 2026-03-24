@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manim Math Visualization"
+  short_description: "Create exact 2D or 3D math and physics animations."
+  default_prompt: "Create or refine a ManimGL math or physics visualization from scratch or from an existing scene. Choose 2D or 3D based on what best teaches the concept, make the geometry mathematically exact, keep formulas and state changes visible on screen when helpful, and validate the rendered scene against its intended math."
